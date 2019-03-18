@@ -1,0 +1,6 @@
+Class car {
+
+Int Id;
+String Name;
+
+}
